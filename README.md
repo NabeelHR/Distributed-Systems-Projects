@@ -1,3 +1,3 @@
 # Distributed-Systems-Projects
-All assignments were implemented in GoLang
-Repo corresponding to the CS 582 course offered in LUMS, fall 2019.
+All assignments were implemented in GoLang.
+This repository corresponds to the CS 582 course offered in LUMS in the Fall of 2019.
