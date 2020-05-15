@@ -1,0 +1,5 @@
+16:02:55.919237 paxos_impl.go:108: working
+16:02:55.938230 paxos_impl.go:158: working
+16:02:55.955392 paxos_impl.go:191: map[abc11:3541996204 abc12:1641191352 abc13:1912169843 abc14:2431914889 abc15:1290898270]
+16:02:55.955435 paxos_impl.go:196: ====NewPaxosNode %!s(int=1) took 36.31062ms
+16:02:55.955447 paxos_impl.go:197: returning
